@@ -8,18 +8,6 @@ It includes data cleaning, exploratory data analysis (EDA), and interactive visu
 
 Source: Kaggle "Data Science and Machine Learning Survey" (2017–2021)
 
-Link: Kaggle Dataset
-
-
-📑 Covered Analysis
-
-✔ Data Cleaning & Preprocessing
-✔ Exploratory Data Analysis (EDA)
-✔ Demographics of Data Scientists (age, education, geography)
-✔ Tools & Technologies trends (Python, R, SQL, Cloud, ML frameworks)
-✔ Salary Distribution & Career Path insights
-✔ Visualizations (bar charts, line plots, heatmaps, summary dashboards)
-
 🛠 Tools & Libraries
 
 Python
